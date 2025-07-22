@@ -1,0 +1,22 @@
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\bin\Debug\Gestão de Clientes.exe.config
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\bin\Debug\Gestão de Clientes.exe
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\bin\Debug\Gestão de Clientes.pdb
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão de Clientes.csproj.AssemblyReference.cache
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão_de_Clientes.Form1.resources
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão_de_Clientes.FormLogin.resources
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão_de_Clientes.Properties.Resources.resources
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão de Clientes.csproj.GenerateResource.cache
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão de Clientes.csproj.CoreCompileInputs.cache
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão de Clientes.exe
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão de Clientes.pdb
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão de Clientes.exe.config
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão_de_Clientes.clientes.FormClientes.resources
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão_de_Clientes.clientes.FormCadastro.resources
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão_de_Clientes.contratos.FormContratos.resources
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão_de_Clientes.relatorios.FormRelatorios.resources
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão_de_Clientes.servicos.FormServicos.resources
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão_de_Clientes.usuarios.FormUsuarios.resources
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão_de_Clientes.AgendaControl.resources
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão_de_Clientes.FormAdicinarTarefas.resources
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão_de_Clientes.visualizacao.FormVisual.resources
+C:\Users\tuchtenhagen02\source\repos\Gestão de Clientes\Gestão de Clientes\obj\Debug\Gestão_de_Clientes.FormOpcoes.resources
